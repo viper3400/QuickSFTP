@@ -42,7 +42,7 @@ namespace Jaxx.QuickSFTP
                 toolStripProgressBar1.Style = ProgressBarStyle.Marquee;
                 toolStripProgressBar1.MarqueeAnimationSpeed = 30;
 
-                await Task.Run(() => Upload(openFileDialog1.FileNames.ToList(), _settings.RemotUploadPath));
+                await Task.Run(() => Upload(openFileDialog1.FileNames.ToList(), _settings.RemoteUploadPath));
 
                 toolStripStatusLabel1.Text = "Bereit";
                 toolStripProgressBar1.Style = ProgressBarStyle.Continuous;

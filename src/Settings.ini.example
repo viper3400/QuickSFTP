@@ -5,4 +5,4 @@ SSHFingerPrint=ssh-rsa 2048 af:cd:99:b5:a8:a8:a8:95:77:98:ed:90:bd:ed:e8:81
 
 [UserSettings]
 DefaultUser=username
-RemotUploadPath=/
+RemoteUploadPath=/

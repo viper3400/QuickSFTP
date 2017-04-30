@@ -42,9 +42,9 @@ namespace Jaxx.QuickSFTP
             get { return _settings["UserSettings"]["DefaultUser"]; }
         }
 
-        internal string RemotUploadPath
+        internal string RemoteUploadPath
         {
-            get { return _settings["UserSettings"]["RemotUploadPath"]; }
+            get { return _settings["UserSettings"]["RemoteUploadPath"]; }
         }       
     }
 }
