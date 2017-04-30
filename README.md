@@ -3,7 +3,7 @@
 QuickSFTP is a tool, which allows an unexperienced person to upload files onto a server
 using the SFTP protocol just by typing the password and choosing the file(s) from a standard Windows dialog.
 
-Therfore, the tool has to be preconfigured by an experienced person.
+Therrfore, the tool has to be preconfigured by a more experienced person.
 
 ## Scenario
 
