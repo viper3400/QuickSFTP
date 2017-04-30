@@ -32,7 +32,13 @@ DefaultUser=username
 RemotUploadPath=/
 ```
 
-### WinSCP.exe
+## Limitations
+
+* For now, QuickSFTP user interface is in german language. 
+* QuickSFTP just uploads the files, user won't be able to see the uploaded files on remote system.
+* Progress of upload is not really visible, there is just a message box at the end.
+
+## WinSCP.exe
 
 QuickSFTP use the WinSCPnet.dll, a NET wrapper around WinSCP’s scripting interface: (https://winscp.net/eng/docs/library). Therefore, WinSCP.exe need to be delivered with every release of QuickSFTP.
 
