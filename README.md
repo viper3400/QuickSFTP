@@ -5,6 +5,8 @@ using the SFTP protocol just by typing the password and choosing the file(s) fro
 
 Therrfore, the tool has to be preconfigured by a more experienced person.
 
+![alt text](docs/images/QuickSFTPUploader_MainWindow.png "QuickSFTP")
+
 ## Scenario
 
 I've tinkerd this tool quickly, because a friend of mine wanted to send me uncompressed audio WAV files 
