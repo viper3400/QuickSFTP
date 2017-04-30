@@ -34,7 +34,7 @@ RemotUploadPath=/
 
 ### WinSCP.exe
 
-QuickSFTP use the WinSCPnet.dll, NET wrapper around WinSCP’s scripting interface: (https://winscp.net/eng/docs/library). Therefor WinSCP.exe need to be delivered with every release of QuickSFTP.
+QuickSFTP use the WinSCPnet.dll, a NET wrapper around WinSCP’s scripting interface: (https://winscp.net/eng/docs/library). Therefore, WinSCP.exe need to be delivered with every release of QuickSFTP.
 
 ## Developers
 * When building from source you need to copy the Settings.ini.example to Settings.ini
